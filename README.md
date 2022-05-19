@@ -1,1 +1,1 @@
-## COVID-19 Data Exploration in the USA
+## This section contains data that have explored using SQL
